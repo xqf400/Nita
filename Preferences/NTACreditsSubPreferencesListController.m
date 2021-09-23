@@ -1,6 +1,6 @@
-#import "NTAContributorsSubPreferencesListController.h"
+#import "NTACreditsSubPreferencesListController.h"
 
-@implementation NTAContributorsSubPreferencesListController
+@implementation NTACreditsSubPreferencesListController
 
 - (void)viewDidLoad {
 

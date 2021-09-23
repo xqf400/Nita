@@ -7,7 +7,7 @@
 @interface NTAAppearanceSettings : HBAppearanceSettings
 @end
 
-@interface NTAContributorsSubPreferencesListController : HBListController
+@interface NTACreditsSubPreferencesListController : HBListController
 @property(nonatomic, retain)NTAAppearanceSettings* appearanceSettings;
 @property(nonatomic, retain)UILabel* titleLabel;
 @property(nonatomic, retain)UIBlurEffect* blur;

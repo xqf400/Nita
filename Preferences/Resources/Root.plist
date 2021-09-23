@@ -4,7 +4,7 @@
 <dict>
 	<key>items</key>
 	<array>
-	
+
 		<dict>
 			<key>cellClass</key>
 			<string>DuoTwitterCell</string>
@@ -62,7 +62,7 @@
 			<key>label</key>
 			<string>Alongside the time</string>
 		</dict>
-		
+
 		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
@@ -143,18 +143,16 @@
 		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
-			<key>label</key>
-			<string>Contributions</string>
 		</dict>
 		<dict>
  			<key>cell</key>
  			<string>PSLinkCell</string>
  			<key>label</key>
- 			<string>Contributors</string>
+ 			<string>Credits</string>
  			<key>detail</key>
- 			<string>NTAContributorsSubPreferencesListController</string>
+ 			<string>NTACreditsSubPreferencesListController</string>
  			<key>NTASub</key>
- 			<string>sub/contributors</string>
+ 			<string>sub/Credits</string>
  		</dict>
 
 		<dict>
@@ -187,7 +185,7 @@
 			<key>url</key>
 			<string>https://repo.litten.love/depictions/BatteryBuddy/</string>
 		</dict>
-		
+
 		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>

@@ -113,15 +113,14 @@
 
 %hook _UIStatusBarDisplayItem
 
-- (void)setEnabled:(BOOL)arg1 {
+- (void)setEnabled:(BOOL)arg1 { // hide the location icon in the status bar when nita is used alongside the time
 
-	%orig;
+	if (!alongsideTimeSwitch) return %orig;
 
-	if(!alongsideTimeSwitch) return;
-
-	if([[self item] isKindOfClass:%c(_UIStatusBarIndicatorLocationItem)])
-
-		%orig(NO);
+	if ([[self item] isKindOfClass:%c(_UIStatusBarIndicatorLocationItem)])
+		return %orig(NO);
+	else
+		return %orig;
 
 }
 

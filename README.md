@@ -2,24 +2,25 @@
 Ensoleillé
 
 ## Installation
-1. Add this repository to your Package Manager: https://repo.litten.love
+1. Add this repository to your package manager: https://repo.litten.love
 2. Install Nita
 
 ## Compiling
-  - Depends on libPDDokdo
-  - You may want to edit the `Makefiles` to suit your theos installation
+  - [Theos](https://theos.dev/) is required to compile the project
+  - No dependencies
+  - You may want to edit the root `Makefile` to use your Theos SDK
 
 ## License
-If you take code from this repository please link it, or my [twitter](https://twitter.com/schneelittchen) to your project  
-You may not redistribute this source code or packages from it  
+If you take code from this repository please link it, or my [Twitter](https://twitter.com/schneelittchen) to your project
+You may not redistribute this source code or packages from it
 You may not use this project to make profit like money
 
 ## Credits
-  - Universal language support
+  - Universal Language Support
     - [MrGcGamer](https://twitter.com/MrGcGamer)
-  - Added the moon emoji
+  - Added The Moon Emoji And Hid The Location Icon
     - [Lukii120](https://twitter.com/Lukii120)
-  - Icon and Banner
+  - Icon And Banner
     - [74k1_](https://twitter.com/74k1_)
-  - Duo twitter cell
+  - Duo Twitter Cell
     - [arm64e](https://twitter.com/arm64e), [MrGcGamer](https://twitter.com/MrGcGamer)

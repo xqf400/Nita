@@ -11,8 +11,8 @@ Ensoleillé
   - You may want to edit the root `Makefile` to use your Theos SDK
 
 ## License
-If you take code from this repository please link it, or my [Twitter](https://twitter.com/schneelittchen) to your project
-You may not redistribute this source code or packages from it
+If you take code from this repository please link it, or my [Twitter](https://twitter.com/schneelittchen) to your project  
+You may not redistribute this source code or packages from it  
 You may not use this project to make profit like money
 
 ## Credits

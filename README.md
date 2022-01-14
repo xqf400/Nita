@@ -1,4 +1,4 @@
-# Nita
+# Nita ☀️
 Ensoleillé
 
 ## Installation

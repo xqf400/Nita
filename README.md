@@ -1,5 +1,5 @@
 # Nita ☀️
-Ensoleillé
+Replace your carrier with an emoji which represents the current weather condition
 
 ## Preview
 <img src="preview.png">
